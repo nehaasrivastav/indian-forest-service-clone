@@ -1,0 +1,43 @@
+
+<HTML>
+<HEAD>
+    
+
+  
+    <title>Land Acquisition Portal</title>
+    <style type="text/css" xml:space="preserve">
+        .error_strings {
+            font-family: Verdana;
+            font-size: 14px;
+            color: #660000;
+            color: red;
+        }
+        </style>
+
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+   
+
+
+</HEAD>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Not found Page</title>
+
+
+</head>
+
+<body>
+
+    <BR><BR><BR><BR><BR><BR>
+    <center>
+        <font face="verdana" size="+1">
+            <B>
+                We cannot find the page you are looking for. Kindly check the url you have written.
+                <br /><br /><a href="http://122.176.47.24/laraz/auth/revamp/login1.cshtml">Click here to go back to the Main Page</a>
+</body>
+</html>
